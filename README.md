@@ -7,7 +7,6 @@
 <p align="center">
 <br>
 <a href="https://discord.com/users/217639084888162304"><img src="https://img.shields.io/badge/discord-%231877F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/kasperipohtinen/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
 
 ### :zap: Github Stats
