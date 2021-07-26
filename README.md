@@ -1,7 +1,7 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://imgur.com/elwvDzJ.png" />
+    <img align="center" alt="visitors" src="https://imgur.com/JmsTaQH.png" />
 </p>
-  <h1 align="center"><b>Hello rush B</b></h1>
+  <h1 align="center"><b>Welcome to my profile</b></h1>
 </p>
 
 <p align="center">
