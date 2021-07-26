@@ -1,19 +1,27 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://imgur.com/JmsTaQH.png" />
 </p>
-  <h1 align="center"><b>Welcome to my profile</b></h1>
+  <h2 align="left">Welcome to my profile</h2>
 </p>
 
-<p align="center">
-<br>
-<a href="https://discord.com/users/217639084888162304"><img src="https://img.shields.io/badge/discord-%231877F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Facebook" /></a>&nbsp;
+### 👨🏻‍💻 &nbsp;About
+
+💡 &nbsp;Trying to learn how to use excel and word.\
+🎓 &nbsp;Going to study data sciences in university.\
+🪖 &nbsp;Currently in army enjoying mornings.
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KasperiP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
 </p>
 
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=KasperiP&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=KasperiP&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
 
 <div align="center">
+
+------
+    
+Last Edited on: 27/07/2021
