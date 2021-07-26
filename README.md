@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://cdn.discordapp.com/attachments/729088611986702508/819723797888368681/standard.gif" />
+    <img align="center" alt="visitors" src="https://imgur.com/elwvDzJ.png" />
 </p>
   <h1 align="center"><b>Hello rush B</b></h1>
 </p>
