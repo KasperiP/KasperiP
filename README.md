@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://imgur.com/JmsTaQH.png" />
+    <img align="center" alt="visitors" src="https://i.imgur.com/aC52KJz.png" />
 </p>
   <h2 align="left">Welcome to my profile</h2>
 </p>
