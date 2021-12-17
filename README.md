@@ -8,7 +8,6 @@
 
 💡 &nbsp;Trying to learn how to use excel and word.\
 🎓 &nbsp;Going to study data sciences in university.\
-🪖 &nbsp;Currently in army enjoying mornings.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
