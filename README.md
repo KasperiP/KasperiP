@@ -6,8 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About
 
-💡 &nbsp;Trying to learn how to use excel and word.\
-🎓 &nbsp;Going to study data sciences in university.\
+&nbsp;🇫🇮 &nbsp;Finland.\
+💡 &nbsp;I do some coding sometimes.\
+🎓 &nbsp;Going to study Computer Science in University of Tampere.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
