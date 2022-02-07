@@ -1,6 +1,8 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://i.imgur.com/aC52KJz.png" />
 </p>
+<img src="https://komarev.com/ghpvc/?username=KasperiP&color=0e0e0e"/>
+
   <h2 align="left">Welcome to my profile</h2>
 </p>
 
