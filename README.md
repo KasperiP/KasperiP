@@ -14,13 +14,10 @@
 Hello / hejssan / moi / hallo / zelmo. I am [Kasperi Pohtinen](https://www.kassq.dev), upcoming computer science student and tech enthusiast from
 [Finland](https://en.wikipedia.org/wiki/Finland) 🇫🇮
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 Open Source Work Statistics
+## 💻 Open Source Work Statistics
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KasperiP&show_icons=true" />
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasperiP&layout=compact" />
-</div>
+![Github statistics](https://github-readme-stats.vercel.app/api?username=KasperiP&show_icons=true) 
 
-<div align="left" left="20px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="300px" src="https://metrics.lecoq.io/KasperiP?template=classic&config.timezone=Finland"/>
-</div>
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KasperiP&layout=compact) 
+
+![Github account info](https://metrics.lecoq.io/KasperiP?template=classic&config.timezone=Finland) 
