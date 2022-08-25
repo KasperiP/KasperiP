@@ -11,7 +11,7 @@
 
 > Fun fact: I like Javascript ☕
 
-Hello / hejssan / moi / hallo / zelmo. I am [Kasperi Pohtinen](https://www.kassq.dev), upcoming computer science student and tech enthusiast from
+Hello / hejssan / moi / hallo / zelmo. I am [Kasperi Pohtinen](https://www.kassq.dev), Computer Science student and tech enthusiast from
 [Finland](https://en.wikipedia.org/wiki/Finland) 🇫🇮
 
 ## 💻 Open Source Work Statistics
