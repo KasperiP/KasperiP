@@ -12,11 +12,11 @@ Hi. I am [Kasperi Pohtinen](https://www.kassq.dev), Computer Science student at 
 <br/>
     
 [![Twitter Follow](https://img.shields.io/twitter/follow/KPohtinen?style=flat&colorA=225fb2&colorB=225fb2&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=KPohtinen)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat&color=225fb2)](https://www.linkedin.com/in/kasperi-pohtinen-41273a204/)
-[![Website](https://img.shields.io/badge/kassq.dev--green?style=flat&colorA=225fb2&colorB=225fb2&logo=google%20chrome&logoColor=white)](https://www.kassq.dev/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat&color=225fb2)](https://www.linkedin.com/in/kpohtinen)
+[![Website](https://img.shields.io/badge/kassq.dev--green?style=flat&colorA=225fb2&colorB=225fb2&logo=google%20chrome&logoColor=white)](https://www.kassq.dev)
 [![GitHub followers](https://img.shields.io/github/followers/KasperiP?style=flat&colorA=225fb2&colorB=225fb2&label=Follow)](https://github.com/KasperiP)
 [![GitHub stars](https://img.shields.io/github/stars/KasperiP?style=flat&colorA=225fb2&colorB=225fb2)](https://github.com/KasperiP)
-[![Views](https://komarev.com/ghpvc/?username=KasperiP&color=225fb2)](https://www.kassq.dev/)
+[![Views](https://komarev.com/ghpvc/?username=KasperiP&color=225fb2)](https://www.kassq.dev)
 </div>
 
 <hr>
