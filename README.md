@@ -5,9 +5,10 @@
 <div align="center">
     
 ## Hello, nice to meet you 👋
-    
-Hi. I am [Kasperi Pohtinen](https://www.kassq.dev), Computer Science student at [University of Tampere](https://www.tuni.fi/en) and tech enthusiast from
-[Finland](https://en.wikipedia.org/wiki/Finland). <br/>I am most interested in web development and everything around it. Get in touch with me using the links below.
+
+I am  [Kasperi Pohtinen](https://www.kassq.dev), a software developer specializing in frontend web development, based in Tampere, Finland. Over the next few years, my aim is to enhance my web development skills and transition towards becoming a "full-stack" developer. Additionally, I am currently pursuing my computer science studies at the [University of Tampere](https://www.tuni.fi/en) and anticipate graduating with my bachelor's degree by Spring 2025.
+
+I'm always eager to learn from others and share my own experiences. Feel free to connect with me on LinkedIn if you’re interested in exchanging ideas or discussing potential collaborations!
     
 <br/>
     
@@ -21,9 +22,7 @@ Hi. I am [Kasperi Pohtinen](https://www.kassq.dev), Computer Science student at 
 
 <hr>
 
-![Github account info](https://metrics.lecoq.io/KasperiP?template=classic&config.timezone=Finland)
-
-<details><summary>More statistics</summary>
+<details><summary>Statistics</summary>
 
 ![Github statistics](https://github-readme-stats.vercel.app/api?username=KasperiP&show_icons=true)
 
