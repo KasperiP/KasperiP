@@ -5,7 +5,7 @@
 <div align="center">
     
 ## Hello, nice to meet you! 👋🤠
-I’m [Kasperi Pohtinen](https://www.kassq.dev/), a software developer specializing in modern web development, based in [Naantali, Finland](https://www.google.com/search?q=naantali+finland). I’m currently working full-time as a full-stack developer while pursuing my computer science studies at the [University of Tampere](https://www.tuni.fi/en).
+I’m [Kasperi Pohtinen](https://www.kassq.dev/), a software developer specializing in modern web development, based in [Tampere, Finland](https://www.google.com/search?q=tampere+finland). I’m currently working full-time as a full-stack developer while pursuing my computer science studies at the [University of Tampere](https://www.tuni.fi/en).
 
 My professional goal is to continually enhance my skills and stay at the forefront of modern web development.
 
