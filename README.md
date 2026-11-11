@@ -5,11 +5,11 @@
 <div align="center">
     
 ## Hello, nice to meet you! 👋🤠
-I’m [Kasperi Pohtinen](https://www.kassq.dev/), a software developer specializing in modern web development, based in [Tampere, Finland](https://www.google.com/search?q=tampere+finland). I’m currently working full-time as a full-stack developer while pursuing my computer science studies at the [University of Tampere](https://www.tuni.fi/en).
+I am [Kasperi Pohtinen](https://www.kassq.dev/), a software developer specializing in modern web development, based in [Tampere, Finland](https://www.google.com/search?q=tampere+finland). I am currently working full-time as a full-stack developer while pursuing my computer science studies at the [University of Tampere](https://www.tuni.fi/en).
 
 My professional goal is to continually enhance my skills and stay at the forefront of modern web development.
 
-I’m always eager to learn from others, share knowledge, and collaborate on meaningful projects. Connect with me on [LinkedIn](https://www.linkedin.com/in/kpohtinen/) if you’d like to exchange ideas or discuss potential opportunities! I also keep a close eye on my **GitHub feed**—if you’re working on interesting open-source projects, give me a follow, and I’ll happily follow back if you’re building something great! 💎
+I am always eager to learn from others and collaborate on meaningful projects. Connect with me on [LinkedIn](https://www.linkedin.com/in/kpohtinen/) if you would like to exchange ideas or discuss potential opportunities! I also keep a close eye on my **GitHub feed** so if you are working on interesting open-source projects, give me a follow, and I will happily follow back if you are building something great! 💎
     
 <br/>
     
